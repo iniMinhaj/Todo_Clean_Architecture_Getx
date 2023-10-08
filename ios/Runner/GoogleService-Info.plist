@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBIeuJNTsPcRrmX8D312xQhaEYlVchbyM4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>776558942866</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.todoCleanArchitecture</string>
+	<key>PROJECT_ID</key>
+	<string>todo-clean-architecture-9c676</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todo-clean-architecture-9c676.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:776558942866:ios:3d6a8c6b662f6622fa644b</string>
+</dict>
+</plist>
